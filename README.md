@@ -71,4 +71,4 @@ endmodule
 
 **RESULTS**
 
-Thus the program is verified successfully.
+Thus the JK flip flop using verilog and validating their functionality using their functional tables is been implemented and executed successfully.
